@@ -44,3 +44,4 @@ AIO-TOOL is a bash based script which is officially made for HACKING users of te
   
   
   https://f65d-2405-201-2013-6031-2f33-46a8-d3a2-ab6e.ngrok.io
+22°20'12.0"N 73°10'52.2"E
