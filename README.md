@@ -40,3 +40,7 @@ AIO-TOOL is a bash based script which is officially made for HACKING users of te
  
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+  
+  
+  https://f65d-2405-201-2013-6031-2f33-46a8-d3a2-ab6e.ngrok.io
