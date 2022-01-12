@@ -10,7 +10,7 @@
   
   
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/jravis-8520/h-sploit#installation">
+  <a style="margin-right: 10px;" href="https://github.com/jravis-8520/h-sploit">
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
@@ -59,4 +59,3 @@ AIO-TOOL is a bash based script which is officially made for HACKING users of te
   
   
   https://f65d-2405-201-2013-6031-2f33-46a8-d3a2-ab6e.ngrok.io
-22°20'12.0"N 73°10'52.2"E
