@@ -6,7 +6,22 @@
 ## SCREENSHOT
 
 ![aio-tool](https://user-images.githubusercontent.com/67777622/136690742-9a96e777-e80d-4f73-b244-7950c245fa05.png)
+
   
+  
+<p>
+  <a style="margin-right: 10px;" href="https://github.com/jravis-8520/h-sploit#installation">
+    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+  </a>
+  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
+    <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+  </a>
+  <a href="https://github.com/thewhiteh4t/seeker#demo">
+    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+  </a>
+</p>
+
+
 ## ABOUT
   
 AIO-TOOL is a bash based script which is officially made for HACKING users of termux from this tool in just one click you can INSTALL PACKAGES, HACKING TOOL  and lot more. This tool works on both rooted Android device and Non-rooted Android device.
